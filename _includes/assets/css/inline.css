@@ -46,7 +46,8 @@ img {
 	height: auto;
 }
 
-main {
+main, 
+Footer {
 	padding-bottom: 2em;
      padding: 1em;
 }
@@ -85,7 +86,9 @@ header > em {
 /* Header Nav */
 header nav {
 border-bottom: 1px solid yellow;
-background-color: #eee;
+background-color: #000;
+font-color: white;
+font-weight: bold;
 }
 header nav ul {
 	padding: 0;
@@ -98,7 +101,7 @@ header nav ul :first-child {
 
 header nav li {
 	display: inline-block;
-	margin: 0 .25em;
+	margin: .5 .25em;
 }
 
 header nav li a {
@@ -111,7 +114,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	background-color: #555;
 }
 
 /* Posts List */
