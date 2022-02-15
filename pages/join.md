@@ -10,4 +10,4 @@ eleventyNavigation:
   order: 3
 ---
 Are you motivated to join us in bringing back the glory of 042? 
-Then, please full in your details below and hit Submit.
+Then please fill in your details below and hit Submit.
