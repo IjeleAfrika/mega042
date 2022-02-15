@@ -46,14 +46,9 @@ img {
 	height: auto;
 }
 
-header,
-main,
-footer {
-	padding: 1em;
-}
-
 main {
 	padding-bottom: 2em;
+     padding: 1em;
 }
 
 main :first-child,
@@ -90,7 +85,7 @@ header > em {
 /* Header Nav */
 header nav {
 border-bottom: 1px solid yellow;
-background-color: #ccc;
+background-color: #eee;
 }
 header nav ul {
 	padding: 0;
