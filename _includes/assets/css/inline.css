@@ -88,7 +88,7 @@ header > em {
 }
 
 /* Header Nav */
-header {
+header nav {
 border-bottom: 1px solid yellow;
 background-color: #ccc;
 }
