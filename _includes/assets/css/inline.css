@@ -93,6 +93,7 @@ border-top: 1px solid yellow;
 border-bottom: 1px solid yellow;
 background-color: #000;
 font-weight: bold;
+padding: 0;
 }
 header nav ul {
 	padding: 0;
@@ -105,7 +106,7 @@ header nav ul :first-child {
 
 header nav li {
 	display: inline-block;
-	margin: 1px;
+	margin: 0 .38em;
 }
 
 header nav li a {
