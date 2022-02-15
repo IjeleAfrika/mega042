@@ -88,6 +88,9 @@ header > em {
 }
 
 /* Header Nav */
+header {
+border-bottom: 1px yellow;
+}
 header nav ul {
 	padding: 0;
 	list-style: none;
