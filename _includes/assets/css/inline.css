@@ -46,10 +46,14 @@ img {
 	height: auto;
 }
 
-main, 
-Footer {
+main {
 	padding-bottom: 2em;
      padding: 1em;
+}
+
+footer {
+padding: 1em;
+border-top: 1px solid black;
 }
 
 main :first-child,
@@ -85,9 +89,9 @@ header > em {
 
 /* Header Nav */
 header nav {
+border-top: 1px solid yellow;
 border-bottom: 1px solid yellow;
 background-color: #000;
-font-color: white;
 font-weight: bold;
 }
 header nav ul {
@@ -107,6 +111,7 @@ header nav li {
 header nav li a {
 	padding: .25em .5em;
 	border-radius: .25em;
+background-color: #bbb;
 }
 
 header nav li a[href]:not(:hover) {
