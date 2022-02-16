@@ -108,13 +108,14 @@ header nav ul :first-child {
 header nav li {
 	display: inline-block;
 	margin: 0 .38em;
+
 }
 
 header nav li a {
 	padding: .25em .5em;
 	border-radius: .25em;
 background-color: #ccc;
-border: 1px solid lime;
+border: 1px solid #000;
 }
 
 header nav li a[href]:not(:hover) {
