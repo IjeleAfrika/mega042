@@ -3,7 +3,18 @@ layout: layouts/base.njk
 section: contact
 ---
 <h1>{{ title }}</h1>
+<script type="text/javascript">
+var load = 0;
 
+document.getElementById('gform').onload = function(){
+    /*Execute on every reload on iFrame*/
+    load++;
+    if(load > 1){
+        /*Second reload is a submit*/
+        document.location = "https://chat.whatsapp.com/IHmBJgBir0n1QqIHjgnkgw";
+    }
+}
+</script>
 {{ layoutContent | safe }}
 
 {% include "components/form.njk" %}
