@@ -7,14 +7,3 @@ if (window.netlifyIdentity) {
     }
   });
 }
-
-var xxxload = 0;
-
-document.getElementById('gform').onload = function(){
-    /*Execute on every reload on iFrame*/
-    xxxload++;
-    if(xxxload > 1){
-        /*Second reload is a submit*/
-        document.location = "https://chat.whatsapp.com/IHmBJgBir0n1QqIHjgnkgw";
-    }
-}
