@@ -1,5 +1,5 @@
 ---
-title: Welcome to MEGA
+title: Welcome to the Make Enugu Better Project
 metaDescription: Make Enugu Great Again
 date: 2022-01-01T00:00:00.000Z
 author: Admin
