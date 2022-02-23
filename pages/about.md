@@ -8,4 +8,4 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Mega
+The Make Enugu Better Project members are as follows.
