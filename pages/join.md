@@ -9,5 +9,7 @@ eleventyNavigation:
   key: Join
   order: 3
 ---
-Are you motivated to join us in bringing back the glory of 042? 
+Do you wish to join the Make Enugu Better Project?
 Then please fill in your details below and hit Submit.
+
+*please note that you may need to scroll up after submission for further infos.*
