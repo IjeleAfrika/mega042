@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
 ---
 ### Welcome
-The biggest room on earth is the room for improvement: the space to continuously refine and improve existing social and technological structures of a community. 
+The biggest room on earth is the room for improvement; the space to continuously refine and improve the existing social and technological structures of a community. 
 
 1. In agreement with this truism, The MEB Project aims at mobilising human and material resources to support the election of Senator Ike Ekweremadu (Ikeoha Ndigbo) as the governor of Enugu State in 2023.
 
